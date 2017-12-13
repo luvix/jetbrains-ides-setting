@@ -70,34 +70,5 @@
       </roots>
       <additional jdk="1.8" sdk="android-27" />
     </jdk>
-    <jdk version="2">
-      <name value="Android API 26 Platform" />
-      <type value="Android SDK" />
-      <homePath value="D:\Applications\Android\SDK" />
-      <roots>
-        <annotationsPath>
-          <root type="composite">
-            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
-          </root>
-        </annotationsPath>
-        <classPath>
-          <root type="composite">
-            <root type="simple" url="jar://D:/Applications/Android/SDK/platforms/android-26/android.jar!/" />
-            <root type="simple" url="file://D:/Applications/Android/SDK/platforms/android-26/data/res" />
-          </root>
-        </classPath>
-        <javadocPath>
-          <root type="composite">
-            <root type="simple" url="http://developer.android.com/reference/" />
-          </root>
-        </javadocPath>
-        <sourcePath>
-          <root type="composite">
-            <root type="simple" url="file://D:/Applications/Android/SDK/sources/android-26" />
-          </root>
-        </sourcePath>
-      </roots>
-      <additional jdk="1.8" sdk="android-26" />
-    </jdk>
   </component>
 </application>
