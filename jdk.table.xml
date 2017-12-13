@@ -1,32 +1,42 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="Python 3.6.0 (C:\Users\Theodore\Anaconda3\python.exe)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.0" />
-      <homePath value="C:\Users\Theodore\Anaconda3\python.exe" />
+      <name value="1.8" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;1.8.0_152-release&quot;" />
+      <homePath value="$APPLICATION_HOME_DIR$/jre" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/lib/jdkAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-667198853" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/charsets.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/access-bridge-64.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/cldrdata.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/dnsns.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/jaccess.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/localedata.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/nashorn.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunec.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunjce_provider.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunmscapi.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/sunpkcs11.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/ext/zipfs.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jce.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/jsse.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/management-agent.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/resources.jar!/" />
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/jre/jre/lib/rt.jar!/" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://docs.oracle.com/javase/8/docs/api/" />
+          </root>
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
@@ -34,73 +44,60 @@
       <additional />
     </jdk>
     <jdk version="2">
-      <name value="Remote Python 3.6.1 (ssh://theo@localhost:10022/home/theo/anaconda3/bin/python3)" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.1" />
-      <homePath value="ssh://theo@localhost:10022/home/theo/anaconda3/bin/python3" />
+      <name value="Android API 27 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\Applications\Android\SDK" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/1710858078" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/496803778" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-106318254" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+            <root type="simple" url="jar://D:/Applications/Android/SDK/platforms/android-27/android.jar!/" />
+            <root type="simple" url="file://D:/Applications/Android/SDK/platforms/android-27/data/res" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
         <sourcePath>
           <root type="composite" />
         </sourcePath>
       </roots>
-      <additional HOST="localhost" PORT="10022" USERNAME="theo" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/home/theo/anaconda3/bin/python3" HELPERS_PATH="/home/theo/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.1">
-        <PathMappingSettings>
-          <option name="pathMappings">
-            <list>
-              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/1710858078" remote-root="/home/theo/anaconda3/lib/python3.6" />
-              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/496803778" remote-root="/home/theo/anaconda3/lib/python3.6/site-packages" />
-            </list>
-          </option>
-        </PathMappingSettings>
-      </additional>
+      <additional jdk="1.8" sdk="android-27" />
     </jdk>
     <jdk version="2">
-      <name value="Python 3.6.0 virtualenv at D:\Theodore\Documents\Codeworks\theodore\yaks\.venv.py3" />
-      <type value="Python SDK" />
-      <version value="Python 3.6.0" />
-      <homePath value="D:\Theodore\Documents\Codeworks\theodore\yaks\.venv.py3\Scripts\python.exe" />
+      <name value="Android API 26 Platform" />
+      <type value="Android SDK" />
+      <homePath value="D:\Applications\Android\SDK" />
       <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root type="simple" url="jar://$APPLICATION_HOME_DIR$/plugins/android/lib/androidAnnotations.jar!/" />
+          </root>
+        </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Lib" type="simple" />
-            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Scripts" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
-            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
-            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3" type="simple" />
-            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Lib/site-packages" type="simple" />
-            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1459380236" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
-            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+            <root type="simple" url="jar://D:/Applications/Android/SDK/platforms/android-26/android.jar!/" />
+            <root type="simple" url="file://D:/Applications/Android/SDK/platforms/android-26/data/res" />
           </root>
         </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root type="simple" url="http://developer.android.com/reference/" />
+          </root>
+        </javadocPath>
         <sourcePath>
-          <root type="composite" />
+          <root type="composite">
+            <root type="simple" url="file://D:/Applications/Android/SDK/sources/android-26" />
+          </root>
         </sourcePath>
       </roots>
-      <additional />
+      <additional jdk="1.8" sdk="android-26" />
     </jdk>
   </component>
 </application>
