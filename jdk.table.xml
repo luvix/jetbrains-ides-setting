@@ -1,0 +1,106 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.6.0 (C:\Users\Theodore\Anaconda3\python.exe)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="C:\Users\Theodore\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.3/system/python_stubs/-667198853" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Remote Python 3.6.1 (ssh://theo@localhost:10022/home/theo/anaconda3/bin/python3)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="ssh://theo@localhost:10022/home/theo/anaconda3/bin/python3" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/1710858078" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/496803778" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/-106318254" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional HOST="localhost" PORT="10022" USERNAME="theo" PRIVATE_KEY_FILE="" USE_KEY_PAIR="false" USE_AUTH_AGENT="false" INTERPRETER_PATH="/home/theo/anaconda3/bin/python3" HELPERS_PATH="/home/theo/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 3.6.1">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/1710858078" remote-root="/home/theo/anaconda3/lib/python3.6" />
+              <mapping local-root="$USER_HOME$/.PyCharm2017.2/system/remote_sources/-106318254/496803778" remote-root="/home/theo/anaconda3/lib/python3.6/site-packages" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6.0 virtualenv at D:\Theodore\Documents\Codeworks\theodore\yaks\.venv.py3" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.0" />
+      <homePath value="D:\Theodore\Documents\Codeworks\theodore\yaks\.venv.py3\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Lib" type="simple" />
+            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Scripts" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/Lib" type="simple" />
+            <root url="file://$USER_HOME$/Anaconda3/DLLs" type="simple" />
+            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3" type="simple" />
+            <root url="file://D:/Theodore/Documents/Codeworks/theodore/yaks/.venv.py3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharm2017.2/system/python_stubs/1459380236" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.6" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.5" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
